@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: saranya@outlook.fr
 
 ## Languages/Tools:
-[![My Skills](https://skillicons.dev/icons?i=discord,flask,matlab,mysql,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,discord,flask,r,matlab,mysql,py&theme=light)](https://skillicons.dev)
                                                           
                                                                 
                                                                 
