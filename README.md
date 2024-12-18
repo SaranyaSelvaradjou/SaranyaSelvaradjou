@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ## Languages/Tools:
-[![My Skills](https://skillicons.dev/icons?i=ai,discord,sklearn,anaconda,ai,flask,r,matlab,mysql,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,sklearn,anaconda,ai,flask,r,matlab,mysql,py&theme=light)](https://skillicons.dev)
                                                           
                                                                 
                                                                 
